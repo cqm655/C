@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.953,=D:\emba\save\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,D:\emba\save\BD_imprumut\Project1.cbproj=D:\emba\save\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,D:\emba\save\BD_imprumut\Unit1.dfm=D:\emba\save\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,D:\emba\save\BD_imprumut\Unit1.h=D:\emba\save\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,D:\emba\save\BD_imprumut\Unit1.cpp=D:\emba\save\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,=D:\emba\save\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,D:\emba\save\BD_imprumut\Project1PCH1.h=D:\emba\save\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

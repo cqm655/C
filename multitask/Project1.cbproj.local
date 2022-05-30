@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.518,D:\emba\save\Unit1.cpp=D:\emba\save\multitask\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,D:\emba\save\multitask\Unit2.h=D:\emba\save\multitask\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=D:\emba\save\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=D:\emba\save\multitask\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,=D:\emba\save\multitask\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,D:\emba\save\Unit2.cpp=D:\emba\save\multitask\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,D:\emba\save\multitask\Unit2.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,D:\emba\save\Unit1.h=D:\emba\save\multitask\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,D:\emba\save\multitask\Unit2.cpp=D:\emba\save\multitask\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,=D:\emba\save\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,D:\emba\save\Project1.cbproj=D:\emba\save\multitask\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,D:\emba\save\Unit2.h=D:\emba\save\multitask\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,=D:\emba\save\multitask\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,=D:\emba\save\multitask\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,=D:\emba\save\multitask\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,D:\emba\save\Unit1.dfm=D:\emba\save\multitask\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,D:\emba\save\multitask\Unit4.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,=D:\emba\save\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,D:\emba\save\Project1PCH1.h=D:\emba\save\multitask\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.634,D:\emba\save\multitask\Unit3.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,=D:\emba\save\multitask\Unit4.cpp</Transaction>
+    <Transaction>2021.06.06 20:14:25.737,D:\emba\save\multitask\Unit4.cpp=</Transaction>
+    <Transaction>2021.06.06 20:14:31.770,D:\emba\save\multitask\Unit5.cpp=</Transaction>
+    <Transaction>2021.06.06 20:14:43.099,=D:\emba\save\multitask\Unit6.cpp</Transaction>
+    <Transaction>2021.06.06 20:15:14.681,D:\emba\save\multitask\Unit4.h=D:\emba\save\multitask\Unit6.h</Transaction>
+    <Transaction>2021.06.06 20:15:14.681,D:\emba\save\multitask\Unit4.cpp=D:\emba\save\multitask\Unit6.cpp</Transaction>
+    <Transaction>2021.06.06 20:17:22.941,=D:\emba\save\multitask\Unit5.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,88 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 348
+  ClientWidth = 333
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object a: TEdit
+    Left = 32
+    Top = 24
+    Width = 49
+    Height = 25
+    Hint = 'enter a'
+    NumbersOnly = True
+    TabOrder = 0
+    TextHint = 'ENTER A'
+  end
+  object b: TEdit
+    Left = 135
+    Top = 24
+    Width = 49
+    Height = 25
+    Hint = 'enter a'
+    NumbersOnly = True
+    TabOrder = 1
+    TextHint = 'ENTER B'
+  end
+  object egal: TButton
+    Left = 87
+    Top = 64
+    Width = 66
+    Height = 25
+    Caption = 'egal'
+    ParentShowHint = False
+    ShowHint = False
+    TabOrder = 2
+    OnClick = e
+  end
+  object s: TComboBox
+    Left = 87
+    Top = 24
+    Width = 42
+    Height = 21
+    ItemIndex = 0
+    TabOrder = 3
+    Text = '+'
+    TextHint = 'symbol'
+    Items.Strings = (
+      '+'
+      '-'
+      '*'
+      '/')
+  end
+  object r: TEdit
+    Left = 87
+    Top = 112
+    Width = 66
+    Height = 25
+    Hint = 'enter a'
+    NumbersOnly = True
+    ParentShowHint = False
+    ReadOnly = True
+    ShowHint = True
+    TabOrder = 4
+    Text = 'raspuns'
+  end
+  object Memo1: TMemo
+    Left = 190
+    Top = 24
+    Width = 185
+    Height = 89
+    ImeName = 'l'
+    Lines.Strings = (
+      'Memo1')
+    ParentShowHint = False
+    ReadOnly = True
+    ShowHint = False
+    TabOrder = 5
+  end
+end

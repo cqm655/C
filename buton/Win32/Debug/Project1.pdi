@@ -1,0 +1,11 @@
+vclx250.bpl
+vcldb250.bpl
+dbrtl250.bpl
+xmlrtl250.bpl
+FireDACCommon250.bpl
+FireDACCommonDriver250.bpl
+FireDACSqliteDriver250.bpl
+FireDAC250.bpl
+vclFireDAC250.bpl
+vcl250.bpl
+rtl250.bpl

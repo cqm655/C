@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.979,D:\emba\save\BD_ROSSO\Unit1.cpp=D:\emba\save\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,=D:\emba\save\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,=D:\emba\save\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,=D:\emba\save\BD_ROSSO\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,D:\emba\save\BD_ROSSO\Project1.cbproj=D:\emba\save\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,D:\emba\save\BD_ROSSO\Unit4.cpp=D:\emba\save\BD_ROSSO\dm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,=D:\emba\save\BD_ROSSO\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,D:\emba\save\BD_ROSSO\Project1PCH1.h=D:\emba\save\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,D:\emba\save\BD_ROSSO\Unit3.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,=D:\emba\save\BD_ROSSO\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,D:\emba\save\BD_ROSSO\Unit2.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,D:\emba\save\BD_ROSSO\Unit4.dfm=D:\emba\save\BD_ROSSO\dm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,D:\emba\save\BD_ROSSO\Unit4.h=D:\emba\save\BD_ROSSO\dm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,D:\emba\save\BD_ROSSO\Unit1.dfm=D:\emba\save\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,D:\emba\save\BD_ROSSO\Unit1.h=D:\emba\save\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=D:\emba\save\BD_ROSSO\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,=D:\emba\save\BD_ROSSO\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

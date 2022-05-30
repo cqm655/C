@@ -1,0 +1,45 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit3.h"
+#include "Project1PCH1.h"
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm3 *Form3;
+//---------------------------------------------------------------------------
+__fastcall TForm3::TForm3(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm3::SpeedButton12Click(TObject *Sender)
+{
+Form3->Close();
+RadioButton1->Checked=false;
+RadioButton2->Checked=false;
+RadioButton3->Checked=false;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm3::SpeedButton13Click(TObject *Sender)
+{
+Form3->Close();
+RadioButton1->Checked=false;
+RadioButton2->Checked=false;
+RadioButton3->Checked=false;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm3::RadioButton1Click(TObject *Sender)
+{
+Form1->Pantofi->Visible=true;
+Form1->Cizme->Visible=false;
+Form1->Totul->Visible=false;
+Form1->Pantofi->Enabled=true;
+Form1->Cizme->Enabled=false;
+Form1->Totul->Enabled=false;
+}
+//---------------------------------------------------------------------------
+
